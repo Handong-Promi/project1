@@ -1,0 +1,19 @@
+-----[GENRE]-----
+1. [Action] : 18
+2. [Melo] : 3
+3. [Thriller] : 2
+4. [Comedy] : 3
+5. [Mystery] : 1
+6. [Adventure] : 1
+7. [SF] : 8
+8. [Fantasy] : 0
+9. [Drama] : 14
+-----[Minimun Viewing Age]-----
+1. [ALL] : 3
+2. [7] : 0
+3. [12] : 21
+4. [15] : 23
+5. [18] : 3
+-----[State]-----
+1. [Due for Release] : 11
+2. [On Screen] : 39

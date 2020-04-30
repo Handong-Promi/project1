@@ -1,0 +1,296 @@
+Movie Report
+--------------------
+
+<1> Registered movies
+-
+1.  Can't stop the feeling
+2.  Exit
+3.  The great people
+4.  The Sound Of Music
+5.  The Princess Diaries
+6.  Clementine
+7.  John Wick
+8.  John Wick: Chapter 2 - Reload
+9.  John Wick: Chapter 3 - Parabellum
+10. The Fast And The Furious 1
+11. The Fast And The Furious 2
+12. The Fast And The Furious 3: Tokyo Drift
+13. The Fast And The Furious 4: The Original
+14. The Fast And The Furious 5: Unlimited
+15. The Fast And The Furious 6: The Maximum
+16. The Fast And The Furious 7: The Seven
+17. The Fast And The Furious 8: The Extreme
+18. The Fast And The Furious: Hobbs & Shaw
+19. The Fast And The Furious 9: The Ultimate
+20. La La Land
+21. The Avengers
+22. The Avengers: Age of Ultron
+23. The Avengers: Infinity War
+24. The Avengers: Endgame
+25. Search Out
+26. Inception
+27. Sing Street
+28. Good Will Hunting
+29. The Secret Life of Walter Mitty
+30. I am Sam
+31. Volcano
+32. 1917
+33. Hacksaw Ridge
+34. Begin Again
+35. The Passion Of The Christ
+36. Time to Hunt
+37. The Man Standing Next
+38. Venom
+39. Interstellar
+40. Green Book
+41. Moonlight
+42. The Shawshank Redemption
+43. Forrest Gump
+44. The Truman Show
+45. Dead Poets Society
+46. Memories Of Murder
+47. 3 Idiots
+48. Avatar
+49. Titanic
+50. Jurassic World
+
+
+--------------------
+
+<2> Movies by state
+-
+[1] Due for Release : 11 movies
+1.  Clementine
+2.  John Wick: Chapter 3 - Parabellum
+3.  The Fast And The Furious 9: The Ultimate
+4.  Good Will Hunting
+5.  The Secret Life of Walter Mitty
+6.  Hacksaw Ridge
+7.  Time to Hunt
+8.  The Man Standing Next
+9.  Interstellar
+10. Dead Poets Society
+11. Titanic
+
+
+[2] On Screen : 39 movies
+1.  Can't stop the feeling
+2.  Exit
+3.  The great people
+4.  The Sound Of Music
+5.  The Princess Diaries
+6.  John Wick
+7.  John Wick: Chapter 2 - Reload
+8.  The Fast And The Furious 1
+9.  The Fast And The Furious 2
+10. The Fast And The Furious 3: Tokyo Drift
+11. The Fast And The Furious 4: The Original
+12. The Fast And The Furious 5: Unlimited
+13. The Fast And The Furious 6: The Maximum
+14. The Fast And The Furious 7: The Seven
+15. The Fast And The Furious 8: The Extreme
+16. The Fast And The Furious: Hobbs & Shaw
+17. La La Land
+18. The Avengers
+19. The Avengers: Age of Ultron
+20. The Avengers: Infinity War
+21. The Avengers: Endgame
+22. Search Out
+23. Inception
+24. Sing Street
+25. I am Sam
+26. Volcano
+27. 1917
+28. Begin Again
+29. The Passion Of The Christ
+30. Venom
+31. Green Book
+32. Moonlight
+33. The Shawshank Redemption
+34. Forrest Gump
+35. The Truman Show
+36. Memories Of Murder
+37. 3 Idiots
+38. Avatar
+39. Jurassic World
+
+
+--------------------
+
+<3> movies by genres
+-
+[1] Action : 18 movies
+1.  Can't stop the feeling
+2.  Exit
+3.  Clementine
+4.  John Wick
+5.  John Wick: Chapter 2 - Reload
+6.  John Wick: Chapter 3 - Parabellum
+7.  The Fast And The Furious 1
+8.  The Fast And The Furious 2
+9.  The Fast And The Furious 3: Tokyo Drift
+10. The Fast And The Furious 4: The Original
+11. The Fast And The Furious 5: Unlimited
+12. The Fast And The Furious 6: The Maximum
+13. The Fast And The Furious 7: The Seven
+14. The Fast And The Furious 8: The Extreme
+15. The Fast And The Furious: Hobbs & Shaw
+16. The Fast And The Furious 9: The Ultimate
+17. The Avengers: Age of Ultron
+18. Volcano
+
+
+[2] Melo : 3 movies
+1.  Sing Street
+2.  Begin Again
+3.  Titanic
+
+
+[3] Thriller : 2 movies
+1.  Search Out
+2.  Time to Hunt
+
+
+[4] Comedy : 3 movies
+1.  The Princess Diaries
+2.  The Truman Show
+3.  3 Idiots
+
+
+[5] Mystery : 1 movies
+1.  Memories Of Murder
+
+
+[6] Adventure : 1 movies
+1.  Jurassic World
+
+
+[7] SF : 8 movies
+1.  The great people
+2.  The Avengers
+3.  The Avengers: Infinity War
+4.  The Avengers: Endgame
+5.  Inception
+6.  Venom
+7.  Interstellar
+8.  Avatar
+
+
+[8] Fantasy : 0 movies
+
+
+[9] Drama : 14 movies
+1.  The Sound Of Music
+2.  La La Land
+3.  Good Will Hunting
+4.  The Secret Life of Walter Mitty
+5.  I am Sam
+6.  1917
+7.  Hacksaw Ridge
+8.  The Passion Of The Christ
+9.  The Man Standing Next
+10. Green Book
+11. Moonlight
+12. The Shawshank Redemption
+13. Forrest Gump
+14. Dead Poets Society
+
+
+--------------------
+
+<4> movies by minimum viewing ages
+-
+[1] ALL : 3 movies
+1.  Can't stop the feeling
+2.  The Sound Of Music
+3.  The Princess Diaries
+
+
+[2] 7 : 0 movies
+
+
+[3] 12 : 21 movies
+1.  The great people
+2.  The Fast And The Furious 2
+3.  The Fast And The Furious 3: Tokyo Drift
+4.  The Fast And The Furious: Hobbs & Shaw
+5.  La La Land
+6.  The Avengers
+7.  The Avengers: Age of Ultron
+8.  The Avengers: Infinity War
+9.  The Avengers: Endgame
+10. Inception
+11. The Secret Life of Walter Mitty
+12. I am Sam
+13. Volcano
+14. Interstellar
+15. Green Book
+16. Forrest Gump
+17. The Truman Show
+18. Dead Poets Society
+19. 3 Idiots
+20. Avatar
+21. Jurassic World
+
+
+[4] 15 : 23 movies
+1.  Exit
+2.  Clementine
+3.  The Fast And The Furious 1
+4.  The Fast And The Furious 4: The Original
+5.  The Fast And The Furious 5: Unlimited
+6.  The Fast And The Furious 6: The Maximum
+7.  The Fast And The Furious 7: The Seven
+8.  The Fast And The Furious 8: The Extreme
+9.  The Fast And The Furious 9: The Ultimate
+10. Search Out
+11. Sing Street
+12. Good Will Hunting
+13. 1917
+14. Hacksaw Ridge
+15. Begin Again
+16. The Passion Of The Christ
+17. Time to Hunt
+18. The Man Standing Next
+19. Venom
+20. Moonlight
+21. The Shawshank Redemption
+22. Memories Of Murder
+23. Titanic
+
+
+[5] 18 : 3 movies
+1.  John Wick
+2.  John Wick: Chapter 2 - Reload
+3.  John Wick: Chapter 3 - Parabellum
+
+
+--------------------
+
+<5> list of distributors
+-
+[Total] : 23 kinds of distributors.
+-
+1.  CJ Entertainment
+2.  20th Century Studios
+3.  WaltDisney PICTURES
+4.  Pearl Star Pictures
+5.  Lion's Gate
+6.  Universal Pictures
+7.  Summit Entertainment
+8.  Storm Fictures Korea
+9.  Warner Bros.
+10. The Weinstein Company, TWC
+11. Miramax, LLC
+12. 20th Century Fox
+13. NEW LINE CINEMA
+14. Universal Studio
+15. The Weinstein Company
+16. Icon Productions
+17. NETFLIX
+18. SHOWBOX
+19. Sony Pictures
+20. Paramount Pictures
+21. A24
+22. COLUMBIA PICTURES
+23. Reliance Entertainment

@@ -58,7 +58,7 @@ int mv_count(){
 
 T_Movie* mv_search_by_title(char *t){
     int i;
-    for(i=0; i<_count;i++){
+    for(i=0; i<MAX_MOVIES;i++){
 	if(movies[i]!=NULL && strcmp(movies[i]->title, t)==0){
 	    return movies[i];
         }

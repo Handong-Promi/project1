@@ -142,7 +142,7 @@ void create_mv_record(){
         }
 	break;
     } while(1);
- 
+	arrange_order(); // to avoid confusing situation; the latter one appears in front of the former ones. 
     mv_create(title, genre, distri, age, state);
 }
     
@@ -161,7 +161,7 @@ void read_mv_record(){
 	    printf("\nEnter a title > ");
 	    fgets(title, sizeof(title), stdin);
   	    title[strlen(title)-1] = '\0';
-	   
+
 	    T_Movie* p = mv_search_by_title(title);
 
 	    if(p){

@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_MOVIES 100 // The maximum number that can be stored in memory.
+#define MAX_MOVIES 60 // The maximum number that can be stored in memory.
 
 //Define the type of movie record, and compose the contents of that type.
 

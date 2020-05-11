@@ -24,47 +24,47 @@ _Program : Managing movies in theater_
 
    i) __menu__
 
-   - Create   
+   - _Create_   
 	 Create a new movie record, and the information of that record is given from the user.
 	
-	-  Read   
+	-  _Read_   
 	   Read a movie record searched by a certain title.   
 	   Or, read movie records searched by genre or distributor or minimum viewing age or state.
 
-	- Update   
+	- _Update_   
 	  Update a movie record searched by a certain title.
 
-	- Update by cases   
+	- _Update by cases_   
 	  Update some movie records by genre or distributor or minimum viewing age or state.
 
-	- Delete   
+	- _Delete_   
 	  Delete a movie record searched by a certain title.
 
-	- Delete by cases   
+	- _Delete by cases_   
 	  Delete some movie records by genre or distributor or minimum viewing age or state.
 
-	- List   
+	- _List_   
 	  Print all of the movie records.
 
-	- Tidy up   
-	    : Araange the movie records so that there is no null pointer between valid movie records.
+	- _Tidy up_   
+	  Araange the movie records so that there is no null pointer between valid movie records.
 
-	- Sort   
+	- _Sort_   
 	  Sort the movie records by title or genre or distributor or minimum viewing age or state. The standard is ASKII CODE.
 
-	- Print statistics   
+	- _Print statistics_   
 	  Print statistics about movie records on the screen.
 
-	- Save statistics   
+	- _Save statistics_   
 	  Save statistics about movie records to a certain data file.
 
-	- Load   
+	- _Load_   
 	  Load movie records from a certain data file.
 
-	- Save   
+	- _Save_   
 	  Save movie records to a certain data file.
 
-	- Report   
+	- _Report_   
 	  Save movie records and their statistics to a certain data file, keeping a given form.
 
    ii) __Characteristic__   

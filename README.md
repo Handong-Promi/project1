@@ -7,13 +7,13 @@ _Program : Managing movies in theater_
 
 ## The program consists of __three files.__
 
-1. movie_main.c
+1. __movie_main.c__
 	- Managing all of the menus. 
 
-2. movie.c
+2. __movie.c__
 	- Library functions.
 
-3. movie.h
+3. __movie.h__
 	- Structures, Macro, Function prototypes.
 
 ******
@@ -25,47 +25,47 @@ _Program : Managing movies in theater_
    i) __menu__
 
    - Create   
-	    : Create a new movie record, and the information of that record is given from the user.
+	 Create a new movie record, and the information of that record is given from the user.
 	
 	-  Read   
-	    : Read a movie record searched by a certain title.   
-		  Or, read movie records searched by genre or distributor or minimum viewing age or state.
+	   Read a movie record searched by a certain title.   
+	   Or, read movie records searched by genre or distributor or minimum viewing age or state.
 
 	- Update   
-	    : Update a movie record searched by a certain title.
+	  Update a movie record searched by a certain title.
 
 	- Update by cases   
-	    : Update some movie records by genre or distributor or minimum viewing age or state.
+	  Update some movie records by genre or distributor or minimum viewing age or state.
 
 	- Delete   
-	    : Delete a movie record searched by a certain title.
+	  Delete a movie record searched by a certain title.
 
 	- Delete by cases   
-	    : Delete some movie records by genre or distributor or minimum viewing age or state.
+	  Delete some movie records by genre or distributor or minimum viewing age or state.
 
 	- List   
-	    : Print all of the movie records.
+	  Print all of the movie records.
 
 	- Tidy up   
 	    : Araange the movie records so that there is no null pointer between valid movie records.
 
 	- Sort   
-	    : Sort the movie records by title or genre or distributor or minimum viewing age or state. The standard is ASKII CODE.
+	  Sort the movie records by title or genre or distributor or minimum viewing age or state. The standard is ASKII CODE.
 
 	- Print statistics   
-	    : Print statistics about movie records on the screen.
+	  Print statistics about movie records on the screen.
 
 	- Save statistics   
-	    : Save statistics about movie records to a certain data file.
+	  Save statistics about movie records to a certain data file.
 
 	- Load   
-	    : Load movie records from a certain data file.
+	  Load movie records from a certain data file.
 
 	- Save   
-	    : Save movie records to a certain data file.
+	  Save movie records to a certain data file.
 
 	- Report   
-	    : Save movie records and their statistics to a certain data file, keeping a given form.
+	  Save movie records and their statistics to a certain data file, keeping a given form.
 
    ii) __Characteristic__   
     - All of the movie_main.c's functions don't directly access to movie records. This means, this file is an application file. 
@@ -95,7 +95,7 @@ _Program : Managing movies in theater_
 
 ******
 
-##ETC)
+## ETC)
   
   1. __Makefile__   
      : You can simply make a executable file via using make utility
